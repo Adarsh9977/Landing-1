@@ -33,7 +33,8 @@ header .logo a{
 
 }
 
-header .menu a{
+
+header .menu i{
     position: relative;
 }
 header .menu a:before{
