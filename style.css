@@ -24,6 +24,14 @@ header{
     width: 100%;
     z-index: 999;
 }
+header .logo a{
+    width: 100%;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: #3d5a80;
+
+}
 
 header .menu a{
     position: relative;
